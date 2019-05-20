@@ -4,6 +4,7 @@ public class Puerta
 {
     public class Puerta
     {
+        //Estoy modificando ejemplo puerta
         int ancho;
         bool abierta;
 
